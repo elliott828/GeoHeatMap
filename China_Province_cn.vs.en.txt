@@ -3,7 +3,7 @@
 120000	天津市	Tianjin
 130000	河北省	Hebei
 140000	山西省	Shanxi
-150000	内蒙古自治区	InnerMongolia
+150000	内蒙古自治区	Inner Mongolia
 210000	辽宁省	Liaoning
 220000	吉林省	Jilin
 230000	黑龙江省	Heilongjiang
@@ -31,4 +31,4 @@
 640000	宁夏回族自治区	Ningxia
 650000	新疆维吾尔自治区	Xinjiang
 710000	台湾省	Taiwan
-810000	香港特别行政区	HongKong
+810000	香港特别行政区	Hong Kong
